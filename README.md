@@ -160,4 +160,4 @@ O arquivo Excel está disponível neste repositório.
 
 ![GitHub](https://img.shields.io/badge/GitHub-maisamendestech-181717?style=for-the-badge&logo=ps://github.com/maisamendestech)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maisa%20Mendes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedinmendes-1316a3394/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maisa%20Mendes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maisa-mendes-1316a3394/)
